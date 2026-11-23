@@ -714,9 +714,14 @@ MonoBehaviour:
   Brightness: 1
   SplatDownscaleFactor: 0
   GammaToLinear: 0
+  m_gammaToLinearDefaultApplied: 1
   AsyncUpload: 1
   RenderBeforeUploadComplete: 1
   CutoutsUpdateBounds: 1
+  DeformationSource: 0
+  m_legacyRelightingEnabled: 0
+  m_legacyRelightingProxy: {fileID: 0}
+  m_legacyRelightingSource: {fileID: 0}
   SortMode: 0
   SortRefreshRate: 1
   CutoutsRefreshRate: 1
@@ -845,9 +850,9 @@ MonoBehaviour:
         z: 0.7870443
       Rotation:
         value:
-          x: -0.06596624
-          y: -0.1898085
-          z: -0.07334259
+          x: -0.06596625
+          y: -0.18980852
+          z: -0.0733426
           w: 0.9768531
     - Position:
         x: 1.4758005

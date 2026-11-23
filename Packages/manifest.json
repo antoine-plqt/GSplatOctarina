@@ -1,5 +1,15 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.netpyoung"
+      ]
+    }
+  ],
   "dependencies": {
+    "com.arloopa.unitysplats": "https://github.com/arloopa/UnitySplats.git",
     "com.unity.ai.navigation": "2.0.15",
     "com.unity.cinemachine": "3.1.7",
     "com.unity.collab-proxy": "2.13.6",
@@ -12,7 +22,6 @@
     "com.unity.timeline": "1.8.13",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.12",
-    "wu.yize.gsplat": "https://github.com/wuyize25/gsplat-unity.git",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
