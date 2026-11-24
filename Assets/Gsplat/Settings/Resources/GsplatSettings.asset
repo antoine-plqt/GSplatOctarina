@@ -15,9 +15,9 @@ MonoBehaviour:
   ComputeShader: {fileID: 7200000, guid: 0aa082656a496ff4f82ecc9d720802b8, type: 3}
   GlobalMaterial: {fileID: 11400000, guid: c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5, type: 2}
   EnableGlobalSort: 1
-  EnableNativeWebSort: 0
-  EnableCpuSortOptimization: 0
-  CpuNearExactDistance: 40
+  EnableNativeWebSort: 1
+  EnableCpuSortOptimization: 1
+  CpuNearExactDistance: 2
   SplatInstanceSize: 128
   UploadBatchSize: 100000
   MaxRenderOrder: 1
@@ -25,7 +25,7 @@ MonoBehaviour:
   CameraTranslationRefreshTreshold: 0.2
   CameraRotationRefreshTreshold: 10
   ShowImportErrors: 1
-  ShowDebugLog: 0
+  ShowDebugLog: 1
   Materials:
   - {fileID: 11400000, guid: 52d6acd34c7b8c8458e1547991be8d7b, type: 2}
   - {fileID: 11400000, guid: 4c970957deb11c343ac0f56e028a96b6, type: 2}

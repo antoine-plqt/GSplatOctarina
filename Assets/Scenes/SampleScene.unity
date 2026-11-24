@@ -690,7 +690,7 @@ GameObject:
   - component: {fileID: 1809761051}
   - component: {fileID: 1809761050}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Splat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -723,7 +723,7 @@ MonoBehaviour:
   m_legacyRelightingProxy: {fileID: 0}
   m_legacyRelightingSource: {fileID: 0}
   SortMode: 0
-  SortRefreshRate: 1
+  SortRefreshRate: 10
   CutoutsRefreshRate: 1
   m_assetGuid: a3affe947d023604bb99eec6ec0b08ca
 --- !u!4 &1809761051
